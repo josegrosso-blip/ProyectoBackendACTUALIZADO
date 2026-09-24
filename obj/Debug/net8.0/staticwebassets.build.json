@@ -1,11 +1,1 @@
-{
-  "Version": 1,
-  "Hash": "hleUxQagZaxw6vGkPr1WExamA5hQUvPGXHpwzErtQnA=",
-  "Source": "ApiPedido",
-  "BasePath": "_content/ApiPedido",
-  "Mode": "Default",
-  "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
-}
+{"Version":1,"Hash":"JzusfmzJSzEIN+KN2BsFPuRQArblJRKqwmNzI2MEP+s=","Source":"ApiPedido","BasePath":"/","Mode":"Root","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}
